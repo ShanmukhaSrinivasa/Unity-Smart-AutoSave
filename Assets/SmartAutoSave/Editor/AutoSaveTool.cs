@@ -227,7 +227,7 @@ namespace Shanmukha.AutoSave.Editor
                 EditorGUILayout.BeginHorizontal("box");
 
                 // File name + Size in KB
-                GUILayout.Label($"{Path.GetFileNameWithoutExtension(file)} ({sizeKB:F1}", EditorStyles.miniLabel);
+                GUILayout.Label($"{Path.GetFileNameWithoutExtension(file)} ({sizeKB:F1} KB)", EditorStyles.miniLabel);
 
                 if(GUILayout.Button("Restore", EditorStyles.miniButton, GUILayout.Width(65)))
                 {
