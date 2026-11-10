@@ -1,0 +1,19 @@
+{
+  "name": "com.shanmukha.autosave",
+  "version": "1.0.0",
+  "displayName": "Smart AutoSave & Scene Backup",
+  "description": "Lightweight Unity Editor extension for automatic scene/prefab saving, pre-play mode crash protection, rolling scene backups, and a live Scene View overlay.",
+  "unity": "2021.3",
+  "keywords": [
+    "autosave",
+    "backup",
+    "editor",
+    "workflow",
+    "tools"
+  ],
+  "author": {
+    "name": "Shanmukha Srinivasa",
+    "url": "https://github.com/ShanmukhaSrinivasa"
+  },
+  "license": "MIT"
+}
