@@ -34,3 +34,5 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 .DS_Store
+# Asset Store Publishing Tools (local install, used only to upload to the Asset Store)
+Packages/com.unity.asset-store-tools/
